@@ -1,38 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About the PHS Rocketry Club
+tags: [about]
 date: 2024-02-11
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>We are a small group of High Schoolers dedicated to designing, building, and launching model rockets for the 2025 American Rocketry Competition.</center>
 
-## Features
+## Our Team
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+-   Eli Ferrara, SMCS Junior
+-   Gianluca Radice, SMCS Junior
+-   Seamus Lynch, ISP Junior
+-   Ben Ross, SMCS Junior
 
-## Preview
+
+## Our Goal
+
+<center>We are continually striving to design and build a rocket capable of the feats necessary to win us the national competition in May.</center>
+
+<!-- ## Preview
 
 {% capture images %}
 https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
 https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} 
+-->
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+See the [ARC Home Page](https://rocketcontest.org/) for more information on the competition itself.
